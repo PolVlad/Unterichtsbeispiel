@@ -19,7 +19,7 @@ namespace WindowsFormsGithub2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("no"); //sdf
+            MessageBox.Show("yes"); //sdf
         }
     }
 }
